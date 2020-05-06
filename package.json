@@ -1,0 +1,11 @@
+{
+  "name": "cath-the-mall",
+  "version": "1.0.0",
+  "description": "Cathc the mall js game",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Milos Stojanovic",
+  "license": "ISC"
+}
